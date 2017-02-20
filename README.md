@@ -56,3 +56,5 @@ Replace the `???` so that your form send a request to `CoachingController#answer
 - Add a link to `/ask` on the `answer.html.erb` view using the `link_to` Rails helper.
 
 ![Coach answer to assertion](https://raw.githubusercontent.com/lewagon/karr-images/master/coach-adding-link.png)
+
+this is a line
