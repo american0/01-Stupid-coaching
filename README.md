@@ -1,5 +1,7 @@
 ## Background & Objectives
 
+hey ho
+
 The goal of the next two challenges is to re-implement some of your ruby scripts in Rails. That means:
 
 - Your program interface isn't the terminal anymore, it is your browser now.
